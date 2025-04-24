@@ -26,3 +26,18 @@ a {
     display: flex;
     flex-direction: column;
 }
+
+body {
+    font-family: 'VT323', monospace;
+    font-size: 20px;
+    /* Ajustá el tamaño según se necesite */
+    color: #e0e0e0;
+    background-color: #0f0f0f;
+    /* Fondo retro oscuro */
+}
+
+h1,
+h2,
+h3 {
+    font-family: 'VT323', monospace;
+}
